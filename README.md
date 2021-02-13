@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KOFITT/Eren Taşkın.
+- 👀 I’m interested in game developing.
+- 🌱 I’m currently learning C++ and Unreal Engine 4.
+- 📫 You can reach me via erentaskin.34@icloud.com.
